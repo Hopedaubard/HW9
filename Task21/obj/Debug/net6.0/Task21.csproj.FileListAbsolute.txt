@@ -1,0 +1,15 @@
+C:\Repository\HWSem9\Task21\bin\Debug\net6.0\Task21.exe
+C:\Repository\HWSem9\Task21\bin\Debug\net6.0\Task21.deps.json
+C:\Repository\HWSem9\Task21\bin\Debug\net6.0\Task21.runtimeconfig.json
+C:\Repository\HWSem9\Task21\bin\Debug\net6.0\Task21.dll
+C:\Repository\HWSem9\Task21\bin\Debug\net6.0\Task21.pdb
+C:\Repository\HWSem9\Task21\obj\Debug\net6.0\Task21.csproj.AssemblyReference.cache
+C:\Repository\HWSem9\Task21\obj\Debug\net6.0\Task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\HWSem9\Task21\obj\Debug\net6.0\Task21.AssemblyInfoInputs.cache
+C:\Repository\HWSem9\Task21\obj\Debug\net6.0\Task21.AssemblyInfo.cs
+C:\Repository\HWSem9\Task21\obj\Debug\net6.0\Task21.csproj.CoreCompileInputs.cache
+C:\Repository\HWSem9\Task21\obj\Debug\net6.0\Task21.dll
+C:\Repository\HWSem9\Task21\obj\Debug\net6.0\refint\Task21.dll
+C:\Repository\HWSem9\Task21\obj\Debug\net6.0\Task21.pdb
+C:\Repository\HWSem9\Task21\obj\Debug\net6.0\Task21.genruntimeconfig.cache
+C:\Repository\HWSem9\Task21\obj\Debug\net6.0\ref\Task21.dll
